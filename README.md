@@ -5,10 +5,19 @@
 Matatah finds the jobs that fit you, writes a résumé and cover letter that are 10/10 for each specific role — behind a factuality QA gate that refuses to ship a fabricated or generic packet — and then **applies for real** across a shared Apply Engine (Chrome extension, desktop app, cloud, and mobile), stopping to hand you the wheel for captchas, logins and questions only you can answer. It never bypasses a security check.
 
 - **Live demo:** https://matatah.com
-- **Walkthrough video:** [`matatah-walkthrough.mp4`](matatah-walkthrough.mp4) — 50-second end-to-end demo (sign-in → dashboard → matches → evaluations → Bot Apply → a real form being filled, paused for a human answer, and submitted)
 - **Presentation:** [`deck/Hakuna-Matatah.pptx`](deck/Hakuna-Matatah.pptx) (16 slides, includes a 2-minute animated intro and a real engine screen-recording)
 - **Screenshots:** [`screenshots/`](screenshots/)
 - **Architecture:** [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
+
+## Walkthrough (narrated, ~74s)
+
+Sign-in → dashboard → matches → evaluations → Bot Apply → a real form being filled, paused for a human answer, and submitted — with a voiceover.
+
+https://github.com/revanthvne/matatah-lockinhack/raw/main/matatah-walkthrough.mp4
+
+<video src="https://github.com/revanthvne/matatah-lockinhack/raw/main/matatah-walkthrough.mp4" controls width="100%"></video>
+
+▶ If the player above doesn't load, [download / view `matatah-walkthrough.mp4`](matatah-walkthrough.mp4).
 
 ---
 
